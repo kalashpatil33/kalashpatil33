@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalashpatil33
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning coding
-📫 How to reach me patilkalash33@gmail.com
+📫 Reach me at patilkalash33@gmail.com
 
 <!---
 kalashpatil33/kalashpatil33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
