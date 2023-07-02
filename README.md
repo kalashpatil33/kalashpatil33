@@ -1,4 +1,4 @@
-![logo](https://github.com/kalashpatil33/kalashpatil33/blob/main/githubbackground.jpg)
+
 <h1 align="center">Hi 👋, I'm Kalash Patil</h1>
 <h3 align="center">A passionate coder from India</h3>
 
