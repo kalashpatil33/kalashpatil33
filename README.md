@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashpatil33&label=Profile%20views&color=0e75b6&style=flat" alt="kalashpatil33" /> </p>
-<a href="https://app.daily.dev/kalashpatil"><img src="https://api.daily.dev/devcards/d9412cce838c4720bcb03be9351888af.png?r=lng" width="400" alt="Kalash Patil's Dev Card"/></a>
+
 - 💬 Ask me about **DSA**
 
 - 📫 How to reach me **patilkalash33@gmail.comn**
@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalashpatil33&show_icons=true&locale=en" alt="kalashpatil33" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalashpatil33&" alt="kalashpatil33" /></p>
+<a href="https://app.daily.dev/kalashpatil"><img src="https://api.daily.dev/devcards/d9412cce838c4720bcb03be9351888af.png?r=lng" width="400" alt="Kalash Patil's Dev Card"/></a>
