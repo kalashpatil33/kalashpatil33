@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalash Patil</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="500"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <a href="https://app.daily.dev/kalashpatil"><img src="https://api.daily.dev/devcards/d9412cce838c4720bcb03be9351888af.png?r=ekf" width="400" alt="Kalash Patil's Dev Card"/></a>
 
