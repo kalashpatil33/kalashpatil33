@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashpatil33&label=Profile%20views&color=0e75b6&style=flat" alt="kalashpatil33" /> </p>
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **DSA****CP***OS****DBMS**
 
 - 📫 How to reach me **patilkalash33@gmail.comn**
 
